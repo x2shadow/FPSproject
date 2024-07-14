@@ -9,6 +9,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+Win\ Builds/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -50,7 +51,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 .plastic/
-/ignore.conf
+ignore.conf
 
 # Unity3D generated meta files
 *.pidb.meta

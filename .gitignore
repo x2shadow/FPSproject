@@ -51,7 +51,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 .plastic/
-ignore.conf
+/ignore.conf
 
 # Unity3D generated meta files
 *.pidb.meta
